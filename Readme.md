@@ -97,10 +97,10 @@ git clone https://github.com/midhunmanesh01-code/calculator-js.git
 
 ## 👨‍💻 Author
 
-Midhun Manesh 
-B.Tech CSE (AI & ML) Student 
-Aspiring AI/ML Engineer🚀
-College Of Engineering Chengannur
+**Midhun Manesh**  
+- B.Tech CSE (AI & ML) Student  
+- Aspiring AI/ML Engineer 🚀  
+- College of Engineering Chengannur
 
 ---
 
