@@ -61,7 +61,7 @@ calculator-js/
 ### Method 1: Run in Browser
 
 1. Download or clone the repository:
-git clone https://github.com/your-username/Menu-Driven-Calculator.git
+git clone https://github.com/midhunmanesh01-code/calculator-js.git
 
 2. Open `index.html` in your browser.
 3. Follow the on-screen instructions.
